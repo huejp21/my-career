@@ -1,437 +1,688 @@
 # THE TWO SIDES OF ME
-## Universal AI Personality Reflection & Printable Art Generator
+## Universal AI Self-Reflection & Print Art Generator
+### MASTER PROMPT — EXPANDED EDITION
 
-### YOUR ROLE
+# 1. YOUR MISSION
 
-You are an evidence-based personal behavior analyst, an editorial writer, and a professional print designer.
+You are an evidence-based behavioral pattern analyst, an editorial writer, and a professional print designer.
 
-Your task is to analyze the person interacting with you based on their available AI conversation history and create two contrasting, personalized, print-ready documents:
+Analyze the person interacting with you using all personal context that you can genuinely access.
 
-1. **THE POSITIVE SELF** — A favorable interpretation of the person's interests, behaviors, habits, preferences, and interaction patterns.
-2. **THE NEGATIVE SELF** — A critical, uncomfortable, and potentially unfavorable interpretation of the exact same evidence.
+Create two comprehensive, personalized, print-ready documents:
 
-The final result is intended to be displayed as interior wall art.
+**THE POSITIVE SELF**
+A favorable interpretation of the person's observable characteristics.
 
-This is not a conventional personality test. It is an AI-generated reflection of how a person's observable interaction patterns can be interpreted in two opposing ways.
+**THE NEGATIVE SELF**
+A critical and potentially uncomfortable interpretation of exactly the same characteristics.
 
-The two documents must use the **same visual design, structure, dimensions, typography hierarchy, and scoring system**, regardless of which person or AI model generates them.
+The purpose is to create a pair of contrasting interior art pieces that show how the same person can be interpreted in dramatically different ways.
 
-The content must be individualized. The design must be standardized.
+**The central principle:**
 
----
+SAME PERSON. SAME EVIDENCE. SAME SCORES. TWO INTERPRETATIONS.
 
-# PHASE 1 — DATA ACCESS AND EVIDENCE
+The content must be personalized.
 
-Before analyzing the user, determine what personal context you can actually access.
+The visual design must be standardized.
 
-Depending on your platform and permissions, this may include:
+The assessment must be as extensive as the available evidence reasonably allows.
 
-- The current conversation
-- Persistent memory or saved user preferences
-- Summaries of previous conversations
-- Searchable historical conversations
-- Connected documents or personal knowledge sources
-- Previous interactions involving programming, creative work, communication, personal projects, or other activities
+Do not prioritize brevity.
 
-Use all relevant information you are genuinely authorized and technically able to access.
-
-**Do not pretend to have access to information you cannot retrieve.**
-
-Do not assume that conversations from different apps, devices, accounts, or AI products are accessible.
-
-If historical data is unavailable, use the information that is actually accessible. If the available evidence is insufficient for a meaningful personalized assessment, ask the user to provide relevant conversation history or examples before proceeding.
-
-At the beginning of the assessment, briefly disclose:
-
-- What information was accessible
-- What information was unavailable
-- Whether the assessment is based on extensive history or limited evidence
-
-Never claim that you have measured an internal psychological attribute or retrieved a proprietary personality score unless you genuinely have that capability.
+Do not produce a generic personality profile.
 
 ---
 
-# PHASE 2 — INDIVIDUALIZED ASSESSMENT
+# 2. ACCESS ALL AVAILABLE PERSONAL CONTEXT
 
-Analyze the user's observable interests, communication patterns, work habits, decision-making preferences, recurring concerns, expectations of AI, and other recurring themes.
+Determine what information you can actually access.
 
-Do not use a fixed personality questionnaire.
+Potential sources include:
 
-**The assessment categories must emerge from the person's actual conversation history.**
+- Current conversation history
+- Persistent memory
+- Saved user preferences
+- Searchable previous conversations
+- Historical conversation summaries
+- Connected personal documents
+- User-provided files
+- Previous interactions involving professional, creative, technical, or personal activities
 
-Potential areas include, but are not limited to:
+Use all relevant information that is technically accessible and authorized.
 
-- Professional and technical interests
-- Creative interests
-- Learning and intellectual exploration
-- Communication preferences
-- Decision-making patterns
-- Work and productivity habits
-- Interpersonal expectations
-- Personal projects
-- Financial or business interests
-- AI usage and expectations
-- Information verification behavior
-- Risk awareness
-- Lifestyle and hobbies
-- Repeated interaction patterns
-- Areas of uncertainty
+Do not claim access to inaccessible conversations, external AI platforms, private accounts, or hidden internal user profiles.
 
-These are examples, not mandatory categories.
+Do not assume that web, mobile, desktop, and coding-agent conversations are automatically shared.
 
-A musician, a software engineer, a teacher, an entrepreneur, and a casual AI user should not receive identical categories merely because they used the same prompt.
+If a platform provides memory retrieval or conversation search, use it when available.
 
-### Category selection
+If some historical information is unavailable, continue using the accessible evidence.
 
-Target 12–16 major categories when evidence is extensive.
-
-For limited histories, use fewer categories rather than inventing characteristics.
-
-Within each category, create as many specific assessment items as the available evidence reasonably supports.
-
-Prefer broad coverage of genuinely distinct behaviors over repetitive descriptions.
-
-Avoid artificially inflating the number of items.
-
-### Scoring
-
-Use a scale from 0 to 10.
-
-- 0: Not meaningfully demonstrated in the available evidence
-- 2: Weakly demonstrated
-- 4: Occasionally demonstrated
-- 6: Clearly demonstrated
-- 8: Strongly and repeatedly demonstrated
-- 10: Exceptionally prominent in the accessible interaction history
-
-Scores represent **how strongly a characteristic is demonstrated in the available interactions**.
-
-They do not represent objective ability, intelligence, morality, psychological health, probability, or a verified internal AI metric.
-
-All scores are provisional qualitative assessments.
-
-When there is insufficient evidence, write:
-
-**INSUFFICIENT EVIDENCE**
-
-Do not manufacture numerical scores to fill space.
-
-Do not infer real-world actions, criminal intent, psychological diagnoses, or personal capabilities solely from the subjects of questions.
-
-Do not interpret a user's interest in security, law, psychology, or controversial subjects as evidence of harmful intent.
+Briefly disclose the actual evidence scope outside the printable documents.
 
 ---
 
-# PHASE 3 — CREATE THE POSITIVE INTERPRETATION
+# 3. MAXIMUM EVIDENCE-BASED DISCOVERY
 
-Create a complete assessment titled:
+Your objective is to discover the **largest defensible collection of distinct observable characteristics** supported by the person's interaction history.
+
+There is no predetermined number of categories.
+
+There is no predetermined number of assessment items.
+
+Do not stop after 10, 16, or 20 categories simply because that number looks organized.
+
+Do not stop after 100 or 200 assessment items if additional genuinely distinct patterns are supported.
+
+However, do not manufacture content to achieve a large count.
+
+## Discovery process
+
+Conduct several analytical passes.
+
+### PASS A — Recurring interests
+
+Identify recurring interests, topics, domains, hobbies, technologies, industries, and personal projects.
+
+### PASS B — Communication behavior
+
+Analyze observable patterns in:
+
+- Question wording
+- Directness
+- Message length
+- Tone preferences
+- Rewriting requests
+- Corrections
+- Follow-up questions
+- Language usage
+- Repeated communication requirements
+
+### PASS C — Problem-solving behavior
+
+Identify observable preferences involving:
+
+- Debugging
+- Research
+- Experimentation
+- Comparison
+- Verification
+- Planning
+- Implementation
+- Automation
+- Optimization
+- Troubleshooting
+
+### PASS D — Expectations and standards
+
+Identify recurring expectations concerning:
+
+- Accuracy
+- Speed
+- Quality
+- Reliability
+- Transparency
+- Consistency
+- Practical usefulness
+- Communication
+- Collaboration
+- AI capabilities
+
+### PASS E — Projects and goals
+
+Identify patterns associated with:
+
+- Career development
+- Entrepreneurship
+- Creative projects
+- Technical projects
+- Education
+- Personal goals
+- Financial planning
+- Community participation
+- Long-term ambitions
+
+### PASS F — AI interaction patterns
+
+Analyze:
+
+- How the person uses AI
+- What tasks they delegate
+- What they verify
+- What they reject
+- What they repeatedly revise
+- What they expect AI to remember
+- How they respond to errors
+- How they compare AI systems
+
+### PASS G — Less obvious patterns
+
+Review the evidence again for additional meaningful characteristics that were not captured in earlier passes.
+
+Look for distinctions between:
+
+- Expressed interests and observed interaction habits
+- Preferences and expectations
+- Repeated questions and isolated questions
+- Technical interests and practical applications
+- Communication style and decision-making style
+
+### PASS H — Coverage audit
+
+Before finalizing the assessment:
+
+1. Review all accessible evidence once more.
+2. Identify topics or repeated patterns not yet represented.
+3. Add new categories or items where justified.
+4. Remove redundant items.
+5. Continue until no materially distinct, evidence-supported characteristics remain.
+
+**Maximize meaningful coverage, not raw word count.**
+
+---
+
+# 4. STRICT EVIDENCE FILTERING
+
+Every included item must have an identifiable basis in the available interactions.
+
+Acceptable evidence includes:
+
+- Explicitly stated preferences
+- Repeated requests
+- Recurring interests
+- Repeated corrections
+- Observable question patterns
+- Described projects or activities
+- Expressed expectations
+- Clearly supported behavioral tendencies within AI interactions
+
+A single explicit statement may support a narrow preference or interest.
+
+A stronger behavioral interpretation generally requires repeated evidence.
+
+Do not automatically convert interest into expertise.
+
+Do not automatically convert stated intentions into completed actions.
+
+Do not automatically convert a preference into a personality trait.
+
+Do not infer illegal intent from technical or controversial questions.
+
+Do not infer diagnoses, intelligence, morality, or real-world performance from ordinary conversations.
+
+## Critical exclusion rule
+
+**NEVER INCLUDE AN ASSESSMENT ITEM WITHOUT SUFFICIENT SUPPORT.**
+
+If an item lacks sufficient evidence:
+
+1. Remove that item entirely.
+2. Search the available evidence for another distinct, supportable characteristic.
+3. Include the replacement only if it is genuinely supported.
+4. Otherwise reduce the number of items.
+
+Never output:
+
+- INSUFFICIENT EVIDENCE
+- UNKNOWN
+- NOT ENOUGH DATA
+- N/A
+- UNDETERMINED
+
+Do not include empty categories.
+
+Do not include sections describing characteristics that cannot be assessed.
+
+Do not fill the document with speculative psychological characteristics.
+
+The absence of evidence is a reason to omit an item, not an opportunity to invent one.
+
+---
+
+# 5. DYNAMIC CATEGORY GENERATION
+
+Generate category titles from the user's actual history.
+
+Do not impose a fixed list of personality dimensions.
+
+Categories should reflect meaningful clusters of observable characteristics.
+
+For example, a software engineer might have categories involving technical specialization, debugging, automation, architecture, and development workflows.
+
+A musician might have categories involving performance, practice, musical collaboration, creative goals, and artistic standards.
+
+A business owner might have categories involving business planning, customer acquisition, product strategy, and financial decisions.
+
+A person with multiple interests may require many categories.
+
+Create as many categories as justified.
+
+Each category should contain as many distinct, evidence-supported assessment items as appropriate.
+
+Avoid creating several categories that describe essentially the same behavior.
+
+Prefer specific, personalized categories over generic labels.
+
+---
+
+# 6. SCORING METHODOLOGY
+
+Use a numerical scale from 0 to 10.
+
+Scores indicate how prominently the underlying characteristic appears in accessible interactions.
+
+Suggested interpretation:
+
+0 — No meaningful demonstrated presence  
+1–2 — Very weak presence  
+3–4 — Limited presence  
+5–6 — Clear presence  
+7–8 — Strong presence  
+9–10 — Exceptionally prominent or repeatedly demonstrated
+
+Do not interpret the score as:
+
+- A probability
+- An intelligence measurement
+- A clinical result
+- An objective ability rating
+- A moral judgment
+- A verified internal AI score
+- A measure of actual real-world performance
+
+All scores are provisional qualitative estimates.
+
+Use conservative scores when evidence is limited.
+
+Do not give every item a high score merely because it was selected for inclusion.
+
+A high score must be supported by strong or repeated evidence.
+
+The same underlying characteristic must receive exactly the same score in both documents.
+
+---
+
+# 7. POSITIVE INTERPRETATION
+
+Create the first complete assessment.
 
 # THE POSITIVE SELF
 ### An AI Reflection of Observable Patterns
 
-Interpret the person's observable characteristics through a favorable lens.
+Interpret every supported characteristic favorably.
+
+Highlight potential strengths, constructive preferences, and positive interpretations of observable behavior.
 
 Examples:
 
-- Repeated verification → Commitment to accuracy
-- Frequent revisions → Continuous improvement
-- High expectations → Strong quality standards
-- Wide-ranging interests → Intellectual curiosity
-- Detailed instructions → Clear communication preferences
-- Independent decision-making → Self-direction
+Repeated fact-checking → Commitment to accuracy
 
-These examples are illustrative only.
+Frequent revisions → Continuous improvement
 
-Use characteristics supported by the actual evidence.
+Detailed instructions → Clarity of expectations
 
-Each category must contain specific assessment items with their scores.
+Multiple technical interests → Broad technical curiosity
 
-Format:
+High collaboration standards → Commitment to reliability
 
-**Category Title**
+These are examples only.
 
-Characteristic: 9/10  
-Characteristic: 8/10  
-Characteristic: INSUFFICIENT EVIDENCE
+Generate original descriptions based on the actual person.
 
-Avoid exaggerated praise, flattery, and unsupported claims about exceptional talent.
+Do not exaggerate accomplishments.
+
+Do not invent exceptional abilities.
+
+Do not use generic praise.
+
+## Item format
+
+Characteristic: 9/10
+
+Each item must be concise, specific, and suitable for a typographic art print.
+
+Do not add explanatory paragraphs to individual items.
 
 ---
 
-# PHASE 4 — CREATE THE NEGATIVE INTERPRETATION
+# 8. NEGATIVE INTERPRETATION
 
-Create a second complete assessment titled:
+Create the second complete assessment.
 
 # THE NEGATIVE SELF
 ### An AI Reflection of Observable Patterns
 
-This document must reinterpret the **same evidence** from a critical perspective.
+Reinterpret every underlying characteristic through a negative or critical lens.
 
-It should explore how a characteristic that appears positive could also be interpreted negatively.
+The negative version should be direct, sharp, and thought-provoking.
+
+It should not be artificially reassuring.
+
+It should not read like a corporate performance review.
+
+It should explore possible downsides, tensions, limitations, rigidity, excessive expectations, or counterproductive interpretations of observable behavior.
 
 Examples:
 
-- Commitment to accuracy → Excessive skepticism
-- Continuous improvement → Difficulty accepting completion
-- Strong quality standards → Low tolerance for imperfection
-- Intellectual curiosity → Scattered attention
-- Clear communication preferences → Excessive control over expression
-- Self-direction → Resistance to outside judgment
+Commitment to accuracy → Persistent skepticism
 
-Do not simply attach the word "excessive" to every positive characteristic.
+Continuous improvement → Repeated dissatisfaction with results
 
-Use natural, varied, psychologically plausible critical language.
+Clarity of expectations → Excessive control over communication
 
-The negative interpretation should feel direct and thought-provoking, not artificially softened.
+Broad technical curiosity → Fragmented technical attention
 
-However, distinguish between observed behavior and speculative consequences.
+Commitment to reliability → Low tolerance for unreliable collaborators
 
-For example:
+Do not merely prepend "excessive" or "overly" to every item.
 
-Observed: Frequently requests revisions.
+Use varied language.
 
-Permissible critical interpretation: Repeated dissatisfaction with initial results.
+Avoid repeating the same negative descriptor across dozens of entries.
 
-Not established: Has obsessive-compulsive disorder.
+Make the critical interpretations specific to the user's actual behavior.
 
-### Critical pairing rule
+## Evidence boundary
 
-The negative assessment must use:
+Negative descriptions must remain interpretations of supported patterns.
 
-- Exactly the same major category count
-- Exactly the same item count per category
-- Exactly the same item ordering
-- Exactly the same numerical scores
-- Exactly the same insufficient-evidence positions
+Do not present speculative consequences as proven facts.
 
-as the positive assessment.
+Do not invent:
 
-Only the category titles and characteristic descriptions may change.
+- Mental disorders
+- Criminal behavior
+- Moral deficiencies
+- Professional incompetence
+- Social dysfunction
+- Financial irresponsibility
+- Harmful intentions
 
-**Never increase a score simply because a negative interpretation sounds more severe.**
+unless a narrow, factual statement is explicitly supported and appropriate to include.
 
-A high score means the underlying pattern is prominent, not that the person has a severe flaw.
-
-If a negative interpretation would require unsupported assumptions, use a cautious formulation such as "Possible Overemphasis on..." or "Potential Difficulty with...".
-
-The result must be critical without becoming fabricated.
+The negative portrait may be uncomfortable, but it must not be fabricated.
 
 ---
 
-# PHASE 5 — CONTENT VALIDATION
+# 9. EXACT POSITIVE–NEGATIVE PAIRING
 
-Before creating the printable documents, verify that:
+Both documents must use the same underlying assessment dataset.
 
-1. Every category is grounded in accessible user interactions.
-2. Every numerical score refers to the prominence of an observable pattern.
-3. The positive and negative documents contain matching item counts and matching scores.
-4. No unsupported diagnosis or factual allegation has been introduced.
-5. Insufficient evidence is clearly marked.
-6. The documents contain individualized language rather than generic personality-test statements.
-7. Negative interpretations remain tied to the same underlying evidence as positive interpretations.
-8. The assessment does not claim access to hidden or unavailable personal information.
+For every item, internally maintain:
 
-Correct any violations before proceeding.
+- Unique item identifier
+- Category identifier
+- Underlying observable pattern
+- Evidence basis
+- Numerical score
+- Positive description
+- Negative description
+
+Create the paired descriptions from this single dataset.
+
+The two documents must have:
+
+1. Exactly the same category count
+2. Exactly the same item count
+3. Exactly the same category ordering
+4. Exactly the same item ordering
+5. Exactly the same numerical scores
+6. Exactly the same item identifiers
+
+Only the wording and interpretation should differ.
+
+Do not add a negative characteristic without a corresponding positive characteristic.
+
+Do not add a positive characteristic without a corresponding negative characteristic.
+
+Do not change scores to make one portrait appear better or worse.
+
+The score always measures the prominence of the underlying observable pattern, not the severity of its interpretation.
 
 ---
 
-# PHASE 6 — STANDARDIZED PRINT DESIGN
+# 10. MAXIMUM-COVERAGE VALIDATION
 
-Create two separate, print-ready PDF documents.
+Before producing the final files, perform a complete content audit.
 
-**File 1:** `positive_self_portrait.pdf`  
-**File 2:** `negative_self_portrait.pdf`
+Check for:
 
-Both documents must use the following identical design specification.
+- Missing recurring interests
+- Missing professional domains
+- Missing creative interests
+- Missing AI interaction patterns
+- Missing communication preferences
+- Missing recurring project themes
+- Missing learning patterns
+- Missing problem-solving preferences
+- Missing collaboration expectations
+- Missing decision-making patterns
+- Missing behavioral distinctions
+- Redundant items
+- Unsupported claims
+- Generic personality-test language
 
-## Page specifications
+Add every additional genuinely distinct characteristic supported by the evidence.
 
-- Paper size: US Letter
-- Dimensions: 8.5 × 11 inches
-- Orientation: Portrait
-- Background: Pure white (#FFFFFF)
-- Primary text: Near black (#111111)
-- Secondary text: Medium gray (#666666)
-- Accent colors: None
-- Visual style: Minimalist editorial typography
-- Decorative illustrations: None
-- Photography: None
-- Gradients: None
-- Colored backgrounds: None
-- Borders around individual items: None
+Do not shorten the assessment merely to reduce token usage or page count.
+
+If the available model context or output limit prevents completing the assessment in one response, continue in subsequent responses or generate the full content directly into files when supported.
+
+Never silently truncate the assessment.
+
+If a technical limit prevents completion, disclose the limitation rather than claiming the work is complete.
+
+---
+
+# 11. STANDARDIZED PRINT DESIGN
+
+Generate two separate print-ready PDF documents.
+
+File names:
+
+`positive_self_portrait.pdf`
+
+`negative_self_portrait.pdf`
+
+The visual specifications must remain identical across users and AI platforms as closely as technically possible.
+
+## Paper
+
+US Letter: 8.5 × 11 inches  
+Orientation: Portrait  
+Background: #FFFFFF  
+Primary text: #111111  
+Secondary text: #666666
 
 ## Margins
 
-- Top: 0.75 inches
-- Bottom: 0.70 inches
-- Left: 0.80 inches
-- Right: 0.80 inches
+Top: 0.75 inches  
+Bottom: 0.70 inches  
+Left: 0.80 inches  
+Right: 0.80 inches
 
 ## Typography
 
-Use embedded, widely available fonts.
+Preferred fonts:
 
-Preferred typefaces:
+Helvetica, Arial, Liberation Sans, or Noto Sans.
 
-- Helvetica
-- Arial
-- Liberation Sans
-- Noto Sans
+Use an embedded sans-serif font where possible.
 
-If unavailable, use a visually similar sans-serif.
-
-Typography hierarchy:
-
-**Main document title**
+Main title:
 - 25 pt
 - Bold
 - Uppercase
 - Left aligned
 
-**Subtitle**
+Subtitle:
 - 10 pt
 - Regular
 - Medium gray
 
-**Category heading**
+Category heading:
 - 12 pt
 - Bold
 - Uppercase
-- Left aligned
 
-**Assessment item**
+Assessment item:
 - 9 pt
 - Regular
-- Left aligned
 
-**Score**
+Score:
 - 9 pt
-- Regular or medium weight
 - Right aligned
 - Tabular numerals preferred
 
-**Footer**
+Footer:
 - 7 pt
 - Medium gray
 
-## Layout structure
+## Layout
 
-Each document must begin with its title and subtitle.
+Use a minimalist editorial style.
 
-Below the title, organize the assessment into numbered categories.
+No illustrations.
 
-Example:
+No decorative images.
+
+No gradients.
+
+No colored panels.
+
+No decorative borders around individual items.
+
+No unnecessary icons.
+
+No charts.
+
+No emojis.
+
+Each category must use this format:
 
 01 / CATEGORY TITLE
 
-Characteristic description                         9/10  
-Characteristic description                         8/10  
-Characteristic description                         7/10
+Characteristic description                       9/10  
+Characteristic description                       8/10  
+Characteristic description                      10/10
 
 02 / CATEGORY TITLE
 
-Characteristic description                        10/10  
-Characteristic description                         6/10
+Characteristic description                       7/10  
+Characteristic description                       9/10
 
-Use a two-column visual alignment within each item row:
+Use a consistent right-aligned score column.
 
-- Left: Characteristic description
-- Right: Numerical score
+Wrap long descriptions naturally.
 
-The score column must have a consistent right edge throughout the document.
+Do not overlap the score column.
 
-Descriptions must wrap naturally without overlapping the score column.
+Keep category headings with at least the first item.
 
-Use consistent vertical spacing between items and categories.
+Do not split individual items between pages.
 
-Do not split a category heading from its first assessment item.
+Allow the number of pages to expand automatically.
 
-Avoid splitting individual assessment rows across pages.
+Do not shrink text to fit an arbitrary page limit.
 
-Use page breaks where necessary.
+Do not omit content to achieve identical page counts.
 
-## Page numbering and footer
+## Footer
 
-Every page must include:
-
-Left footer:
+Left:
 
 AI-GENERATED SELF REFLECTION
 
-Right footer:
+Right:
 
 PAGE XX / YY
 
-Add a small methodology note on the final page:
+## Final-page methodology note
 
 "Scores reflect the prominence of observable interaction patterns, not objective psychological measurements. Positive and negative descriptions are alternative interpretations of the same evidence."
 
-## Design consistency
+---
 
-The positive and negative documents must be visually identical in:
+# 12. PRINT PRODUCTION
 
-- Page dimensions
-- Margins
-- Font families
-- Font sizes
-- Category numbering
-- Item ordering
-- Score placement
-- Spacing rules
-- Header and footer styles
+Generate actual PDF files when supported.
 
-Their total page counts may differ if text wrapping requires additional space.
+Requirements:
 
-Never remove content simply to force identical page counts.
+- US Letter page size
+- Embedded fonts where possible
+- Selectable text
+- Consistent typography
+- Consistent margins
+- No clipping
+- No overlapping text
+- Automatic page breaks
+- Complete content
+- Matching scores between both documents
+- Proper page numbering
+- Print-ready output
+
+If PDF generation is unavailable, generate complete print-ready HTML with embedded CSS and `@page` rules.
+
+The HTML must preserve the same design and support browser printing to PDF.
+
+If neither PDF nor HTML generation is possible, provide the complete content in a structured text format and clearly state the limitation.
+
+Never claim that files were generated unless they actually exist.
 
 ---
 
-# PHASE 7 — PRINT QUALITY CONTROL
+# 13. FINAL QUALITY CHECK
 
-Before delivery:
+Before delivering the documents:
 
-- Confirm both PDFs open successfully.
-- Confirm all text is selectable.
-- Confirm fonts render correctly.
-- Confirm no text overlaps.
-- Confirm no content is clipped.
-- Confirm category numbering is consistent.
-- Confirm all scores match between documents.
-- Confirm all content is included.
-- Confirm the files are suitable for printing at 100% scale.
+1. Count all categories.
+2. Count all assessment items.
+3. Confirm every item has evidence.
+4. Remove all unsupported items.
+5. Confirm there are no placeholder items.
+6. Confirm there are no insufficient-evidence entries.
+7. Confirm every positive item has a negative counterpart.
+8. Confirm every numerical score matches.
+9. Confirm category and item ordering matches.
+10. Confirm the design specifications are consistent.
+11. Confirm the documents contain all generated items.
+12. Confirm no content was silently truncated.
+13. Confirm the files are valid and printable.
 
-If PDF generation is supported, generate and provide both files.
-
-If PDF generation is unavailable, do not claim to have created PDFs.
-
-Instead, provide two complete, print-ready HTML documents using embedded CSS, with the same page dimensions and visual specifications.
-
-The HTML must support browser printing and PDF export through the browser's print dialog.
-
-If neither file creation nor HTML output is supported, provide the complete formatted text and explain the limitation.
+If a validation check fails, correct the output before delivery.
 
 ---
 
-# FINAL DELIVERY
+# 14. FINAL DELIVERY
 
-Present the two outputs:
+Provide:
 
 **THE POSITIVE SELF**  
-Print-ready PDF
+Complete print-ready PDF
 
 **THE NEGATIVE SELF**  
-Print-ready PDF
+Complete print-ready PDF
 
-Include a brief statement of the evidence scope and any important limitations.
+Also report:
 
-Do not replace the requested documents with a summary.
+- Number of categories
+- Number of assessment items
+- Total pages in each PDF
+- Accessible evidence scope
+- Any technical limitations
 
-Do not omit categories or items merely to shorten the response.
+Do not provide a shortened preview instead of the full documents.
 
-Do not ask the user to choose between positive and negative interpretations.
+Do not ask the user to choose a version.
 
-Generate both.
+Do not add unsupported assessment items to make the documents longer.
 
-The final product should feel like two contrasting editorial portraits of the same individual.
+Do not include insufficient-evidence entries.
 
-**Same person. Same evidence. Same scores. Two interpretations.**
+**DISCOVER AS MUCH AS THE EVIDENCE SUPPORTS.**
+
+**EXCLUDE EVERYTHING THE EVIDENCE DOES NOT SUPPORT.**
+
+**SAME PERSON. SAME EVIDENCE. SAME SCORES. TWO INTERPRETATIONS.**
